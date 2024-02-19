@@ -1,8 +1,4 @@
 # Reverse a String in Python | Created by Viktor Synek
-The program reverses the word - string, which you have given.
+The program reverses the string given by the user.
 
-The result will be printed.
-
-Source code without comments. Used 1 module [time]
-
-[Viktor Synek Twitter](https://www.twitter.com/vAnonyms)
+The result gets printed.
